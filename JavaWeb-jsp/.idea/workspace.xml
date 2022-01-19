@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JavaWeb-jsp:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e18fa87-a120-49cc-b408-8759c85c453f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-02-Servlet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Request/src/main/java/com/ch/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Request/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Request/src/main/webapp/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-03-session-cookie/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-03-session-cookie/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-03-session-cookie/node.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-03-session-cookie/src/main/java/com/ch/pojo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-03-session-cookie/src/main/java/com/ch/servlet/CookieDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-03-session-cookie/src/main/java/com/ch/servlet/Cookie_ZH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-03-session-cookie/src/main/java/com/ch/servlet/Cookie_del.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-03-session-cookie/src/main/java/com/ch/servlet/SessionDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-03-session-cookie/src/main/java/com/ch/servlet/SessionDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-03-session-cookie/src/main/java/com/ch/servlet/SessionDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-03-session-cookie/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-Filter/src/main/java/com/ch/filter/CharacterEncodingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-Filter/src/main/java/com/ch/servlet/ShowServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb-Filter/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ch/pojo/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/common/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/common/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/error/404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/error/500.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/javaBean.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/jsp2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/jsp3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/jsptag.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/jsptag2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/jstlForeach.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/jstlIF.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/jstlWhen.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pageContext.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pageDemo02.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaWeb-02-Servlet/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Request/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Request/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Request/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Request/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Response/target/Response-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Response/target/Response-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Response/target/Response-1.0-SNAPSHOT/WEB-INF/classes/com/ch/FileServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Response/target/Response-1.0-SNAPSHOT/WEB-INF/classes/com/ch/ImageServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Response/target/Response-1.0-SNAPSHOT/WEB-INF/classes/com/ch/RedirectServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Response/target/Response-1.0-SNAPSHOT/WEB-INF/classes/com/ch/Request_Index.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Response/target/Response-1.0-SNAPSHOT/WEB-INF/classes/陈.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Response/target/Response-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Response/target/Response-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Response/target/Response-1.0-SNAPSHOT/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Response/target/classes/com/ch/FileServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Response/target/classes/com/ch/ImageServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Response/target/classes/com/ch/RedirectServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Response/target/classes/com/ch/Request_Index.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Response/target/classes/陈.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-01/target/Servlet-01.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-01/target/Servlet-01/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-01/target/Servlet-01/WEB-INF/classes/com/ch/servlet/ErrorServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-01/target/Servlet-01/WEB-INF/classes/com/ch/servlet/HelloServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-01/target/Servlet-01/WEB-INF/lib/javax.servlet-api-4.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-01/target/Servlet-01/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-01/target/Servlet-01/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-01/target/classes/com/ch/servlet/ErrorServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-01/target/classes/com/ch/servlet/HelloServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/Servlet-02-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/Servlet-02-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/Servlet-02-1.0-SNAPSHOT/WEB-INF/classes/com/ch/servlet/ErrorServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/Servlet-02-1.0-SNAPSHOT/WEB-INF/classes/com/ch/servlet/GetServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/Servlet-02-1.0-SNAPSHOT/WEB-INF/classes/com/ch/servlet/HelloServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/Servlet-02-1.0-SNAPSHOT/WEB-INF/classes/com/ch/servlet/PropertiesServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/Servlet-02-1.0-SNAPSHOT/WEB-INF/classes/com/ch/servlet/ServletDemo03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/Servlet-02-1.0-SNAPSHOT/WEB-INF/classes/com/ch/servlet/ServletDemo04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/Servlet-02-1.0-SNAPSHOT/WEB-INF/classes/com/ch/servlet/ServletDemo05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/Servlet-02-1.0-SNAPSHOT/WEB-INF/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/Servlet-02-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/Servlet-02-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/classes/com/ch/servlet/ErrorServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/classes/com/ch/servlet/GetServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/classes/com/ch/servlet/HelloServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/classes/com/ch/servlet/PropertiesServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/classes/com/ch/servlet/ServletDemo03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/classes/com/ch/servlet/ServletDemo04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/classes/com/ch/servlet/ServletDemo05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaWeb-02-Servlet/Servlet-02/target/classes/db.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven_m2\.m2\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache/maven/apache-maven-3.8.3-bin/apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="E:\maven_m2\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="23MGatniiw9Jz9AkExsA8VjqC06" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaWeb-03-session-cookie" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.17382812" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="service.view.auto.scroll.from.source" value="true" />
+    <property name="service.view.auto.scroll.to.source" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaWeb\JavaWeb-jsp\web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.73">
+    <configuration name="Generate POJOs" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <setting name="path" value="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate POJOs.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.73" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.73" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JavaWeb-jsp:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JavaWeb_jsp_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="a1fbdf93-bab7-4186-8b71-335796e4e86d" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49242" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JavaWeb-jsp:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Groovy.Generate POJOs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e18fa87-a120-49cc-b408-8759c85c453f" name="Changes" comment="" />
+      <created>1641536609419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641536609419</updated>
+      <workItem from="1641536611725" duration="15544000" />
+      <workItem from="1641626627827" duration="147000" />
+      <workItem from="1641626900490" duration="240000" />
+      <workItem from="1641627174635" duration="83000" />
+      <workItem from="1641627284550" duration="3251000" />
+      <workItem from="1641630601699" duration="4944000" />
+      <workItem from="1641714864364" duration="670000" />
+      <workItem from="1641874530849" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
